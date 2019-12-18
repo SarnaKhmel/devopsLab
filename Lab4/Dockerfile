@@ -17,7 +17,7 @@ RUN git clone https://github.com/sarnakhmel/devopsLab.git
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r ~/devLabs/devopsLab/Lab3/* .
+RUN cp -r /lab/devopsLab/Lab3/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
