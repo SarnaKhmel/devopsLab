@@ -1,0 +1,8 @@
+INFO 2019-12-18 20:48:33,209 root : Server date: 2019-12-18 20:48:33
+INFO 2019-12-18 20:48:33,209 root : Monitoring page: : /health/
+INFO 2019-12-18 20:48:33,209 root : Server info: {'System': 'Linux', 'Release': '5.0.0-23-generic', 'Type': 'x86_64'}
+INFO 2019-12-18 20:48:33,209 root : Client info: python-requests/2.22.0
+INFO 2019-12-18 20:48:33,348 root : Server date: 2019-11-15 20:48:33
+INFO 2019-12-18 20:48:33,348 root : Monitoring page: : /health/
+INFO 2019-12-18 20:48:33,348 root : Server info: {'System': 'Linux', 'Release': '5.0.0-23-generic', 'Type': 'x86_64'}
+INFO 2019-12-18 20:48:33,348 root : Client info: python-requests/2.22.0 
