@@ -11,4 +11,6 @@ Lab_4: Робота з Docker
 
 Lab_5: Автоматизація за допомогою Makefile VS Docker Compose
 
-Lab_6: 
+Lab_6: Автоматизація за допомогою CI/CD серверів.
+
+![alttext](fin.jpg)
