@@ -33,13 +33,16 @@ jobs:
       name: "Build and run Docker images via make"
       services:
         - docker
+
       install:
         - cd ./Lab5/
         - make app
         - make tests
+
       script:
         - make run
         - make test-app
+
 branches:
   only:
     - master
